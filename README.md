@@ -21,10 +21,10 @@ This project provides a data set with bounding boxes, body poses, 3D face meshes
       "This image shows two people with similar/different face meshes/ head positions/ ... ."
 
 
-**Step 4 - Pose- & Face- related labeling of the Clusters with each several cannidate captions:**
+**Step 4 - Pose- & face- related labeling of the clusters with each several cannidate captions:**
 
 
-**Step 5 - Assignment of pose- and face-related captions to each Cluster member using CLIP:**
+**Step 5 - Assignment of pose- and face-related captions to each cluster member using CLIP:**
 -> SUBSET C: Dataset of person bounding box image - text pairs, where the text describes the body pose & facial expression without relating to other image features like clothes, age, gender, ...  --> One potential appication of this would be to add this data to general purpose image generation models to teach them to consider fine details of poses and head-related details, when generating images of person guided by natural language. This could be very useful for art, language guided selfie manipulation & content creation for video games and advertisement.
 
 
